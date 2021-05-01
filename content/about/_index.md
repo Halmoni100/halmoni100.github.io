@@ -3,6 +3,9 @@ title: "About"
 description: "Get to know me"
 featured_image: '/images/network.png'
 ---
+
+[Resume](https://tinyurl.com/87tm7mva)
+
 {{< figure src="/images/personal_pic.jpg" title="Me at a summit in Keystone Colorado 2019" >}}
 
 Writing a description about myself seems self defeating, so instead I will post a parable from Marvin Minsky's book, Society of Mind.
