@@ -1,7 +1,7 @@
 ---
 title: "iFly"
 date: 2021-05-01T12:39:55-04:00
-draft: false
+tags: ["satire", "politics"]
 ---
 
 Year 2050
