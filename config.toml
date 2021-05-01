@@ -1,3 +1,28 @@
-baseURL = "http://example.org/"
+baseURL = "http://chrishong.us/"
+title = "Chris Hong"
 languageCode = "en-us"
-title = "My New Hugo Site"
+theme = "ananke"
+weight = 1
+copyright = "Hero image by Daniel Ellis 2019"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+
+[params]
+  favicon = ""
+  site_logo = ""
+  description = "Christopher Hong Artificial Intelligence Blog"
+  facebook = ""
+  twitter = ""
+  instagram = ""
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  rss = ""
+  background_color_class = "bg-black"
+  featured_image = "/images/network.png"
+  recent_posts_number = 2
