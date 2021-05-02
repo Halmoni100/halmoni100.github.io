@@ -1,7 +1,7 @@
 ---
 title: "Workplace Survival Guide"
 date: 2021-05-02T09:49:58-04:00
-draft: false
+tags: ["career", "advice"]
 ---
 
 I wanted to make this post because we currently live in a world in which a majority of people need to submit themselves to a 40 to 80 hour a week job in a tyrannical organization, but frankly there is very little good advice about how to navigate the working world.  Here I present a short essay on what I believe to be the most valuable lessons I learned on my first coroporate job out of college at a large multinational defense contractor.  Even at work, nobody taught me these rules; these are hard earned "street smarts" I had to find out on my own.  While I worked specifically as a software engineer, the advice presented here is very general to all jobs.  Anyone should ingrain these principles in their working life.  Some of these tips should apply to life in general, but are especially relevant to the working world.
@@ -40,9 +40,9 @@ Research into the IPD problem suggests that the best long term strategy is some 
 
 **Corollary #1 of Rule #1: Always initially assume that the other party is trustworthy**
 
-**Observation #1: Ordinary parties tend to assume other parties are *not* trustworthy**
-
 This means that, going into any relationship between anybody in the workplace, you should assume goodwill from the start and provide goodwill.  Only then is it possible to foster trust and a productive relationship.
+
+**Observation #1: Ordinary parties tend to assume other parties are *not* trustworthy**
 
 Observation #1 comes from my experience.  It is unfortunate that people (bosses, project managers, executives, etc) tend to not give others the benefit of the doubt, especially if you are in a subordinate position and are unable to use leverage (like an entry level employee).  This means that, for relationships that you desire, *trust must be earned*.  You need to give the other party a reason that you are trustworthy.  However, do not go overboard on these efforts since the optimal strategy is "tit-for-tat", not "be a pushover". 
 
