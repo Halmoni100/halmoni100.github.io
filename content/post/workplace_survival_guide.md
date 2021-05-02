@@ -32,7 +32,7 @@ Consequently, trust is especially valuable because of its scarcity.  This is bec
 
 Suppose there are two entry level employees Jordan and Emma.  One day just for fun their boss Mike isolates each in separate conference rooms and offers them two choices.  Each can decide to cooperate or defect.  If both cooperate, both get $300.  If one chooses defect and the other chooses cooperate, the defector gains $500 and the cooperator loses $100.  If both defect, both lose $10. Because Mike the boss is a veritable maniac with loads of cash, he decides to play the same game every week. 
 
-  On any given day, both Jordan and Emma will be tempted to defect and gain a significant reward.  Suppose one day Taylor Swift is selling concert tickets.  Both Jordan and Emma are Taylor Swift stans, so extra cash is tempting.  Each of them will likely reason, "Well, I could make $200 more if I defect, and I don't have as much to lose (-$10 or -$100), so since I'm lusting over a VIP Taylor Swift ticket right now I will defect".
+  On any given day, both Jordan and Emma will be tempted to defect and gain a significant reward.  Suppose one day Taylor Swift is selling concert tickets.  Both Jordan and Emma are Taylor Swift stans, so extra cash is tempting.  Each of them will likely reason, "Well, I could make $200 more if I defect, and I don't have as much to lose (-$10), so since I'm lusting over a VIP Taylor Swift ticket right now I will defect".
 
 The numbers chosen in this game I think are fairly representative, although they vary a lot depending on the situation.  Now that I wrote this, Mike's ridiculous game seems like an actually good idea... I digress.
 
