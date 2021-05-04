@@ -132,6 +132,6 @@ If you compare the two lists above, it is clear that in America, after you adjus
 
 I mean that, in comparing what each party expects from the other in a trusting relationship, the relative value of the promises that are expected to be delivered from each party is determined by each party's leverage over the other.  Thus, workers who bring more leverage can expect more compensation for each unit of labor-effort, while bosses who bring more leverage can expect more labor-effort out of the worker for each unit of compensation. 
 
-I personally think this is sort of screwed up, but in capitalist society this is reality.  Therefore, if you rail against the working conditions compared to how hard you are working, just get a reality check.  Think about forming a union, which has been so denigrated by corporate propaganda and suppressed by corporate America using violence.
+I personally think this is sort of screwed up, but in capitalist society this is reality.  Therefore, if you rail against how much you are getting compared to how hard you are working, just get a reality check.  Think about forming a union, which has been so denigrated by corporate propaganda and suppressed by corporate America using violence.
 
 Okay, this is it for now.  The rules here were spelled out in relative importance, #1 being the most important.  Note that these rules are general to all relationships between different parties, although I focused on the employer employee relationship.  So go out there, be a survivor because you need to survive.
