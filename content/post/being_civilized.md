@@ -27,7 +27,7 @@ That got me reflecting and thinking about my studies, particularly in machine le
 
 The answer is 100% difficult.  Impossible [1].  Almost certainly these earthworms would be treated as "statistical noise".  Why?  Because that's how neural nets are trained.  If a geometric regularity is not relevant to the objective function, then it is ignored by neural nets.  In fact, it is "optimal" to ignore these irrelevances.
 
-How different is this from humanity's long history of imperialism, from Genghis Khan and the Roman Empire to the Dutch, British, and United States?  Not very much, if you mean that what they all have in common is the relentless pursuit of singular goals, ruthlessly optimizing and expanding almost without regard to the consequences.
+How different is this from humanity's long history of imperialism, from Genghis Khan and the Roman Empire to the Dutch, British, United States, and China?  Not very much, if you mean that what they all have in common is the relentless pursuit of singular goals, ruthlessly optimizing and expanding almost without regard to the consequences.
 
 Today we live in a new age of digital imperialism dominated by companies such as Facebook, Google, Microsoft, Alibaba, Tencent, etc.  These transnational corporations steal details of our most intimate personal lives, and use these neural net algorithms to assert domination and control over us.  "Users" of digital "platforms" essentially become digital slaves, trading their private data, short term lusts, and conveniences for the hijacking of their minds to the detriment of their long term health and fulfillment.   
  
